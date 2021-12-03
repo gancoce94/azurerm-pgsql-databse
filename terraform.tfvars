@@ -1,0 +1,8 @@
+resource_group_name     = "my_terraform_rg"
+resource_group_location = "West Europe"
+pg_server_name          = "terraform-pgserver-2021"
+pg_database_name        = "exampleDB"
+pg_admin_login          = "pgadmin"
+pg_admin_password       = "@Aa123456789!"
+pg_server_collation     = "English_United States.1252"
+charset                 = "UTF8"
